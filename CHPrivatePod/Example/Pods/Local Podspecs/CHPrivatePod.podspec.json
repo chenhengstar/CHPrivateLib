@@ -1,0 +1,22 @@
+{
+  "name": "CHPrivatePod",
+  "version": "0.1.0",
+  "summary": "A short description of CHPrivatePod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chenhengstar/CHPrivatePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenhengstar": "240523328@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/chenhengstar/CHPrivatePod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CHPrivatePod/Classes/**/*"
+}

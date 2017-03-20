@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'CHPrivatePod_Example' do
+  pod 'CHPrivatePod', :path => '../'
+
+  target 'CHPrivatePod_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+  pod 'Expecta'
+  end
+end

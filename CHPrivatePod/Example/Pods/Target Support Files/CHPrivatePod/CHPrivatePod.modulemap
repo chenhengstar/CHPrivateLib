@@ -1,0 +1,6 @@
+framework module CHPrivatePod {
+  umbrella header "CHPrivatePod-umbrella.h"
+
+  export *
+  module * { export * }
+}
