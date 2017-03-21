@@ -25,6 +25,6 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'CHPrivatePod/Classes/*'
+  s.source_files = 'CHPrivatePod/CHPrivatePod/Classes/*'
   
 end
